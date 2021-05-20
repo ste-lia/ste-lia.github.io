@@ -1,0 +1,22 @@
+.footer {
+  margin-top: auto;
+}
+
+.foother {
+  padding: 50px 0;
+  align-items: center;
+  margin-bottom: auto;
+
+  
+  &__container {
+    max-width: 1000px;
+  }
+  
+  &__text {
+    font-size: 13px;
+    color: #848484;
+    font-weight: 400;
+    text-align: center;
+    margin-top: 20px;
+  }
+}
