@@ -1,5 +1,6 @@
 jQuary(document).ready(function ($) {
    $('.slider').slick({
-		dots:
+		fade: true,
+		infinite: true,
 	});
-});
+
